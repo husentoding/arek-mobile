@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1065927168700",
+    "firebase_url": "https://yayayaya-5cc24.firebaseio.com",
+    "project_id": "yayayaya-5cc24",
+    "storage_bucket": "yayayaya-5cc24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065927168700:android:0b65c09878f9b568",
+        "android_client_info": {
+          "package_name": "com.example.husen.motionqrscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065927168700-9nqbb7ff8csmmtfj509mi850pgedaosb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.husen.motionqrscanner",
+            "certificate_hash": "157bd634ec52ffc519cfb43b6275e8d6dde53661"
+          }
+        },
+        {
+          "client_id": "1065927168700-78oqm1sc5j424madgsj7cua5vt4bauqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANGrNFItnAbD-RFmulmmFRBMFARKr7SSQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065927168700-78oqm1sc5j424madgsj7cua5vt4bauqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
